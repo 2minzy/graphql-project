@@ -10,7 +10,9 @@
   "author": "Minji Lee",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "axios": "^0.21.0",
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
